@@ -1,4 +1,4 @@
-# Hi there, I'm Ana Carolina👋
+## Hi there, I'm Ana Carolina  <img src="https://media2.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif?cid=ecf05e47hk51qecfhltk0par1s1mqjd8n2prmswvjoo2sk7j&rid=giphy.gif&ct=s" width="100">
 
 - 🔭 I’m currently working as Front-end developer at @ BEES Brasil | AB InBev
 - 🌱 I’m currently learning Next JS and UX/UI design 
